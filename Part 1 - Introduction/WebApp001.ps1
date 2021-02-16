@@ -2,7 +2,7 @@
     Author  : Christos Polydorou
     Date    : February 16 2021
     Purpose : DSC Configuration example
-    URL     :
+    URL     : https://blog.cpolydorou.net/2021/02/configuring-virtual-machines-using.html
 #>
 
 # This is the configuration object
